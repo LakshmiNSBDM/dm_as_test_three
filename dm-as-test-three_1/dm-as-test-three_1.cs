@@ -69,6 +69,8 @@ namespace dm_as_test_three_1
 		public void Run(IEngine engine)
 		{
 			engine.GenerateInformation("Lakshmi Narasimham Bandaru Test 21 06 2023");
+
+			engine.GenerateInformation("TCS - Astro - DataMiner Training");
 		}
 	}
 }
